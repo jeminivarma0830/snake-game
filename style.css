@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.game-container {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+#score {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+#board {
+  background: #1f7a1f;
+  border: 4px solid white;
+}
+
+.instructions {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #ddd;
+}

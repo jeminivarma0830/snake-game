@@ -1,9 +1,7 @@
 🐍 Snake Game
-
 A simple and fun Snake Game built using basic programming concepts. The game allows the player to control a snake, eat food, grow longer, and try to achieve the highest score without crashing.
 
 📌 Project Description
-
 This Snake Game is a beginner-friendly project that demonstrates core game development concepts such as movement, collision detection, and real-time updates. The player controls the snake using keyboard inputs, and the objective is to eat as much food as possible while avoiding collisions with walls or the snake’s own body.
 
 🚀 Features

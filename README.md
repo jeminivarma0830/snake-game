@@ -44,8 +44,8 @@ Add levels or difficulty modes
 Add sound effects
 Improve UI/graphics
 Add pause/resume feature
-👤 Author
 
+👤 Author
 Jemini Verma
 www.linkedin.com/in/jemini-varma-7b4029355
 https://github.com/jeminivarma0830
